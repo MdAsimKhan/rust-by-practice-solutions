@@ -1,0 +1,17 @@
+Variables
+6 entire
+4 why conversion
+
+Numbers
+6 whats the add val
+
+Char, Bool
+6 why 0?
+
+Ownership
+5 how?
+
+Compound Types
+string 6
+slice 2
+struct 8
